@@ -67,8 +67,8 @@ The model uses **transfer learning**, leveraging pretrained weights to adapt to 
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/PyTorchCardClassifier.git
-   cd PyTorchCardClassifier
+   git clone https://github.com/mtptisid/PyTorch-CNN-model/.git
+   cd PyTorch-CNN-model
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
