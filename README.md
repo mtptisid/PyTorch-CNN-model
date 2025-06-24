@@ -229,8 +229,6 @@ Contributions are welcome! To contribute:
 
 Please report issues or suggest features via GitHub Issues.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 - [Kaggle](https://kaggle.com) for the Playing Card Image Dataset.
